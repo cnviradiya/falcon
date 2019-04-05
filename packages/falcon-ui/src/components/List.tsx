@@ -6,6 +6,7 @@ export const List = themed({
     list: {
       p: 'none',
       m: 'none',
+      display: 'inline-block',
       css: {
         listStyle: 'none'
       }

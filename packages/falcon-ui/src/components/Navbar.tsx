@@ -59,7 +59,7 @@ export const NavbarItem = themed({
       color: 'primaryText',
 
       css: ({ theme }) => ({
-        cursor: 'pointer',
+        cursor: 'inherit',
         userSelect: 'none',
         listStyle: 'none',
 
